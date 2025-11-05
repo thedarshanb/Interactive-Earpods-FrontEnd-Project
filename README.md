@@ -13,7 +13,7 @@
 
 > 🧬 Dive into the future immersive visuals and interactivity!
 
- **[🌐 Click here to experience it live!](https://thedarshanb.github.io/Interactive-Earpods-Front-End-Project/)**  
+ **[🌐 Click here to experience it live!](https://thedarshanb.github.io/Interactive-Earpods-FrontEnd-Project/)**  
 
 
 
